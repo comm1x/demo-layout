@@ -1,0 +1,8 @@
+<UIView
+    width="parent.width"
+    height="parent.height"
+    backgroundColor="green">
+    
+    <UIView template="RedSquare.xml"/>
+    
+</UIView>
